@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    text-align: Center;
+}
+h2{
+    color: purple;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+  }
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+  }  
+td, th{
+    border: 1px solid black;
+  }
+table {
+    border-collapse: collapse;
+   }
+   
+thead {
+    background-color: plum;
+  }
